@@ -1,8 +1,6 @@
-<!-- FRONT -->
-
 PHARRELL WILLIAMS
 
-HAPPY
+<h1>HAPPY</h1>
 
 | FROM DESPICABLE ME 2 |
 
